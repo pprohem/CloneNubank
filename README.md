@@ -11,3 +11,4 @@
 
 Fiquei muito feliz com o resultado, ainda pretendo adicionar as funcionalidades, mas como o trabalho era só para clone de interface o resultado até o momento é o seguinte:
 
+![gif projeto](https://user-images.githubusercontent.com/110731287/202288074-52439c07-fdda-4028-b895-e673e5e69368.gif)
